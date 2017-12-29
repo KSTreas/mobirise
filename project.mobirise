@@ -38,10 +38,7 @@
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishType": "github",
-    "gitHubName": "KSTO",
-    "gitHubPath": "mobirise"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "able_savings.html": {
