@@ -30,7 +30,7 @@
 <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 <body>
-<section class="menu cid-qEt7xbDHf1" once="menu" id="menu1-5w" data-rv-view="2216">
+<section class="menu cid-qEt7xbDHf1" once="menu" id="menu1-5w" data-rv-view="465">
 
     
 
@@ -65,7 +65,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.co/g">how to create a website</a></section><section class="header3 cid-qEt7xcetUd" id="header3-5x" data-rv-view="2218">
+<section class="engine"><a href="https://mobirise.co/b">web site creator</a></section><section class="header3 cid-qEt7xcetUd" id="header3-5x" data-rv-view="467">
 
     
 
@@ -85,7 +85,7 @@
 
 </section>
 
-<div id="custom-html-5z" custom-code="true" data-rv-view="2221"><section style="background-color: #ffffff;">
+<div id="custom-html-5z" custom-code="true" data-rv-view="239"><section style="background-color: #ffffff;">
     <div class="container" id="check_list">
         <span class="fa fa-chevron-down mbr-iconfont mbr-iconfont-btn" aria-hidden="true" style="display: none;"></span>
             <span class="icon54-v1-left-2 mbr-iconfont mbr-iconfont-btn" aria-hidden="true" style="display: none;"></span>        
@@ -95,7 +95,7 @@
 
 </div>
 
-<section class="testimonials4 cid-qEt7xdmFjH" id="testimonials4-60" data-rv-view="2222">
+<section class="testimonials4 cid-qEt7xdmFjH" id="testimonials4-60" data-rv-view="470">
 
   
 
@@ -124,7 +124,7 @@
   </div>
 </section>
 
-<section class="cid-qEt7xdRZEg" id="footer1-61" data-rv-view="2228">
+<section class="cid-qEt7xdRZEg" id="footer1-61" data-rv-view="476">
 
     
 
