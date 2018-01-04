@@ -27,7 +27,7 @@
 <script type="text/javascript" src="assets/js/request_claims.js"></script>
 </head>
 <body>
-<section class="menu cid-qCHUdL86bZ" once="menu" id="menu1-4j" data-rv-view="414">
+<section class="menu cid-qCHUdL86bZ" once="menu" id="menu1-4j" data-rv-view="1193">
 
     
 
@@ -53,8 +53,8 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white display-4" href="index.html" aria-expanded="false">Home
                         </a></li><li class="nav-item dropdown"><a class="nav-link link text-white dropdown-toggle display-4" href="services.html" aria-expanded="false" data-toggle="dropdown-submenu">Services
-                        </a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="learn_quest.html" aria-expanded="false">Education Savings</a><a class="text-white dropdown-item display-4" href="able_savings.html" aria-expanded="false">ABLE Savings</a><div class="dropdown"><a class="text-white dropdown-item dropdown-toggle display-4" href="up_mai.html" aria-expanded="false" data-toggle="dropdown-submenu">Unclaimed Property</a><div class="dropdown-menu dropdown-submenu"><a class="text-white dropdown-item display-4" href="up_search.php" aria-expanded="false">Search for Your Name</a><a class="text-white dropdown-item display-4" href="up_mai.html" aria-expanded="false">What is Unclaimed Property</a><a class="text-white dropdown-item display-4" href="just_for_holders.html" aria-expanded="false">Report Property to Us</a><a class="text-white dropdown-item display-4" href="just_for_holders.html" aria-expanded="false">Report Property to Us</a></div></div><a class="text-white dropdown-item display-4" href="fin_ed.html" aria-expanded="false">Financial Education</a><a class="text-white dropdown-item display-4" href="bonds.html" aria-expanded="false">Municipal Bonds</a><div class="dropdown"><a class="text-white dropdown-item dropdown-toggle display-4" href="fin_serv.html" aria-expanded="false" data-toggle="dropdown-submenu">Financial Services</a><div class="dropdown-menu dropdown-submenu"><a class="text-white dropdown-item display-4" href="check_search.php" aria-expanded="false">State Payment Status</a><a class="text-white dropdown-item display-4" href="dist_search.php" aria-expanded="false">Distribution Amounts</a><a class="text-white dropdown-item display-4" href="fin_serv.html" aria-expanded="false">Cashier Receipt Amounts</a><a class="text-white dropdown-item display-4" href="fin_serv.html" aria-expanded="false">Remittance Forms</a></div></div></div></li><li class="nav-item dropdown open">
-                    <a class="nav-link link text-white dropdown-toggle display-4" href="about_us.html" data-toggle="dropdown-submenu" aria-expanded="true">About Us
+                        </a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="learn_quest.html" aria-expanded="false">Education Savings</a><a class="text-white dropdown-item display-4" href="able_savings.html" aria-expanded="false">ABLE Savings</a><div class="dropdown"><a class="text-white dropdown-item dropdown-toggle display-4" href="up_mai.html" aria-expanded="false" data-toggle="dropdown-submenu">Unclaimed Property</a><div class="dropdown-menu dropdown-submenu"><a class="text-white dropdown-item display-4" href="up_search.php" aria-expanded="false">Search for Your Name</a><a class="text-white dropdown-item display-4" href="up_mai.html" aria-expanded="false">What is Unclaimed Property</a><a class="text-white dropdown-item display-4" href="just_for_holders.html" aria-expanded="false">Report Property to Us</a><a class="text-white dropdown-item display-4" href="just_for_holders.html" aria-expanded="false">Report Property to Us</a></div></div><a class="text-white dropdown-item display-4" href="fin_ed.html" aria-expanded="false">Financial Education</a><a class="text-white dropdown-item display-4" href="bonds.html" aria-expanded="false">Municipal Bonds</a><div class="dropdown"><a class="text-white dropdown-item dropdown-toggle display-4" href="fin_serv.html" aria-expanded="false" data-toggle="dropdown-submenu">Financial Services</a><div class="dropdown-menu dropdown-submenu"><a class="text-white dropdown-item display-4" href="check_search.php" aria-expanded="false">State Payment Status</a><a class="text-white dropdown-item display-4" href="dist_search.php" aria-expanded="false">Distribution Amounts</a><a class="text-white dropdown-item display-4" href="fin_serv.html" aria-expanded="false">Cashier Receipt Amounts</a><a class="text-white dropdown-item display-4" href="fin_serv.html" aria-expanded="false">Remittance Forms</a></div></div></div></li><li class="nav-item dropdown">
+                    <a class="nav-link link text-white dropdown-toggle display-4" href="about_us.html" data-toggle="dropdown-submenu" aria-expanded="false">About Us
                         </a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="meet_jake.html">Meet Jake</a><a class="text-white dropdown-item display-4" href="news.html">News</a><a class="text-white dropdown-item display-4" href="contact_us.html">Contact Us</a><a class="text-white dropdown-item display-4" href="office_history.html">Office History</a></div>
                 </li></ul>
             <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-danger display-7" href="up_search.php"><span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>Unclaimed Property</a></div>
@@ -62,7 +62,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.co/j">how to design your own website</a></section><section class="header3 cid-qDOZy0UhDT" id="header3-4k" data-rv-view="416">
+<section class="engine"><a href="https://mobirise.co/g">create your own website for free</a></section><section class="header3 cid-qDOZy0UhDT" id="header3-4k" data-rv-view="1195">
 
     
 
@@ -82,7 +82,7 @@
 
 </section>
 
-<section class="section-table cid-qDOZZ2UNzK" id="table1-4l" data-rv-view="419">
+<section class="section-table cid-qDOZZ2UNzK" id="table1-4l" data-rv-view="1198">
 
   
   
@@ -92,7 +92,7 @@
     </div> <!-- container-table -->
 </section>
 
-<div id="custom-html-5n" custom-code="true" data-rv-view="188"><section style="background-color: #ffffff;">
+<div id="custom-html-5n" custom-code="true" data-rv-view="511"><section style="background-color: #ffffff;">
     <div class="container" id="prop_list">
         <?php require("c:/inetpub/libs/kansasstatetreasurer/lib_request_claims_body01.php"); ?>
     </div> <!-- container -->
@@ -100,7 +100,7 @@
 
 </div>
 
-<section class="mbr-section form1 cid-qDP2syR5Yv" id="form1-4m" data-rv-view="422">
+<section class="mbr-section form1 cid-qDP2syR5Yv" id="form1-4m" data-rv-view="1201">
 
     
 
@@ -118,7 +118,7 @@
             <div class="media-container-column col-lg-8" data-form-type="formoid">
                     <div data-form-alert="" hidden="">Thanks for filling out the form!</div>
             
-                    <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" data-form-email="true" value="ij2lu3Ud4SQ3lHuXq4WE2RkI5EdwLuQ9Wsvlwges+WLLtW0clUNoRvvLSumRach59m6yZbDhiOLmurpGNVhog4Tr1g624Cl6My/SCQepvUBSvMZZuDs5jWGn+KIR034r">
+                    <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" data-form-email="true" value="2AXS/sRpDRM8XL68PejJ8Ub+FZmHcEX3eRTHBDH9ogzwwOQhMlJvIUH5VPE7okKFvwFyJFy5IkFxdn9SXu2Q9jpe3u+h+vECd0hvIzYR1u9M6hC4LZb5SxjpsGTfA0gm">
                         <div class="form-group" data-for="subjectList">
                             <label class="form-control-label mbr-fonts-style display-7" for="subjectList-form1-4m">Subject</label>
                             <span class="_kst_text-required">( Required )</span>
@@ -169,7 +169,7 @@
     </div>
 </section>
 
-<section class="testimonials4 cid-qDP32QA3cX" id="testimonials4-4n" data-rv-view="425">
+<section class="testimonials4 cid-qDP32QA3cX" id="testimonials4-4n" data-rv-view="1204">
 
   
 
@@ -200,7 +200,7 @@
   </div>
 </section>
 
-<section class="cid-qDP3N9Nkgk" id="footer1-4o" data-rv-view="431">
+<section class="cid-qDP3N9Nkgk" id="footer1-4o" data-rv-view="1210">
 
     
 

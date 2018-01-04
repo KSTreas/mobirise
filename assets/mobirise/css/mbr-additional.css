@@ -3329,41 +3329,11 @@ body {
 .cid-qCHUdL86bZ .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qF7ND28Crq {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
+#custom-html-69 {
+  /* Type valid CSS here */
 }
-.cid-qF7ND28Crq h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qF7ND28Crq p {
-  color: #767676;
-  text-align: left;
-  margin-bottom: 0;
-}
-.cid-qF7ND28Crq .card-img {
-  width: auto;
-}
-.cid-qF7ND28Crq .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-.cid-qF7ND28Crq .card-box {
-  padding-left: 1rem;
-  word-break: break-word;
-}
-@media (max-width: 991px) {
-  .cid-qF7ND28Crq .card-img {
-    text-align: left;
-    padding-bottom: 0.75rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-qF7ND28Crq .card-img span {
-    font-size: 40px !important;
-  }
+#custom-html-69 .my-image {
+  width: 100%;
 }
 .cid-qCM9q1fgFe {
   padding-top: 60px;
