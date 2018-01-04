@@ -27,7 +27,7 @@
 <script type="text/javascript" src="assets/js/request_claims.js"></script>
 </head>
 <body>
-<section class="menu cid-qCHUdL86bZ" once="menu" id="menu1-4j" data-rv-view="1874">
+<section class="menu cid-qCHUdL86bZ" once="menu" id="menu1-4j" data-rv-view="178">
 
     
 
@@ -62,7 +62,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.co/g">create a website</a></section><section class="header3 cid-qDOZy0UhDT" id="header3-4k" data-rv-view="1876">
+<section class="engine"><a href="https://mobirise.co/o">bootstrap buttons</a></section><section class="header3 cid-qDOZy0UhDT" id="header3-4k" data-rv-view="180">
 
     
 
@@ -82,7 +82,7 @@
 
 </section>
 
-<section class="section-table cid-qDOZZ2UNzK" id="table1-4l" data-rv-view="1879">
+<section class="section-table cid-qDOZZ2UNzK" id="table1-4l" data-rv-view="183">
 
   
   
@@ -92,7 +92,7 @@
     </div> <!-- container-table -->
 </section>
 
-<div id="custom-html-5n" custom-code="true" data-rv-view="511"><section style="background-color: #ffffff;">
+<div id="custom-html-5n" custom-code="true" data-rv-view="186"><section style="background-color: #ffffff;">
     <div class="container" id="prop_list">
         <?php require("c:/inetpub/libs/kansasstatetreasurer/lib_request_claims_body01.php"); ?>
     </div> <!-- container -->
@@ -100,7 +100,7 @@
 
 </div>
 
-<section class="mbr-section form1 cid-qDP2syR5Yv" id="form1-4m" data-rv-view="1882">
+<section class="mbr-section form1 cid-qDP2syR5Yv" id="form1-4m" data-rv-view="187">
 
     
 
@@ -118,7 +118,7 @@
             <div class="media-container-column col-lg-8" data-form-type="formoid">
                     <div data-form-alert="" hidden="">Thanks for filling out the form!</div>
             
-                    <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" data-form-email="true" value="47W4zIm1P01R+SmtVBjnkSbSgJKPuhyzwnRsB05H7OoNxrOv6IFWgc4PKUZ0ge5JtGHr9a6gzNjDPJ4Qu8z2Xmcu0dKd26ZVATCs3rZhGpVjHDjLXNxYtsqVNY6OscQK">
+                    <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" data-form-email="true" value="4QJxcuqOBDtXpTbcbJcXEVywEeHz/89Ut00ih7CMJFpzXYAZASoDYSWQHLF3X1L3ZqmpmAplMOVhDVMgX8AxqCogUJLVqYtNtikB0hmdLnxWjJn82WA0sKO/RZ2Dpu6h">
                         <div class="form-group" data-for="subjectList">
                             <label class="form-control-label mbr-fonts-style display-7" for="subjectList-form1-4m">Subject</label>
                             <span class="_kst_text-required">( Required )</span>
@@ -169,7 +169,7 @@
     </div>
 </section>
 
-<section class="testimonials4 cid-qDP32QA3cX" id="testimonials4-4n" data-rv-view="1885">
+<section class="testimonials4 cid-qDP32QA3cX" id="testimonials4-4n" data-rv-view="190">
 
   
 
@@ -200,7 +200,7 @@
   </div>
 </section>
 
-<section class="cid-qDP3N9Nkgk" id="footer1-4o" data-rv-view="1891">
+<section class="cid-qDP3N9Nkgk" id="footer1-4o" data-rv-view="196">
 
     
 
